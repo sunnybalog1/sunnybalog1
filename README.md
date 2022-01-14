@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunnybalog1
+- 👋 Hi, I’m Sunday Balogun
 - 👀 I’m interested in writing clean code for the benefit of makind
 - 🌱 I’m currently learning data science and web developemnt
 - 💞️ I’m looking to collaborate on remote projects on web development
